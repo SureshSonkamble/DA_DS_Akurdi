@@ -1,0 +1,31 @@
+#student result system
+s1=int(input("Enter subject 1 marks:="))
+s2=int(input("Enter subject 2 marks:="))
+s3=int(input("Enter subject 3 marks:="))
+s4=int(input("Enter subject 4 marks:="))
+s5=int(input("Enter subject 5 marks:="))
+if(s1>100 or s2>100 or s3>100 or s4>100 or s5>100 ):
+    print("Invalid Marks : Marks should be <=100 only")
+else:
+    ttl=s1+s2+s3+s4+s5
+    per=ttl/5
+    if(s1<40 or s2<40 or s3<40 or s4<40 or s5<40 ):
+        print("Result: Failed")
+        print("Total:=500/",ttl)
+        print("Percentage %:=",per)
+    else:
+        print("Total:=500/",ttl)
+        print("Percentage %:=",per)
+        if(per>=75):
+            print("A+")
+        elif(per<75 and per>=60):
+            print("A")
+        elif(per<60 and per>=50):
+            print("B")
+        elif(per<50 and per>=40):
+            print("C")
+        else:
+            print("D")
+
+
+        

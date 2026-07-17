@@ -1,0 +1,14 @@
+,Unnamed: 0,StudentID,Name,Gender,Course,City,Marks,Grade,Attendance,Mobile
+0,0,101,Amit,Male,Python,Pune,85,A,92,9876543210.0
+2,2,103,Rahul,Male,Python,Nashik,92,A,95,9876543212.0
+4,4,105,Karan,Male,Java,Nagpur,55,D,68,9876543214.0
+6,6,107,Vikas,Male,Data Science,Pune,45,F,60,9876543216.0
+8,8,109,Arjun,Male,Python,Pune,73,B,80,9876543218.0
+10,10,111,Rohit,Male,Java,Pune,62,C,72,
+12,12,113,Sachin,Male,Java,Mumbai,40,F,55,9876543222.0
+14,14,201,Deepak,Male,Python,Nashik,91,A,96,9876543224.0
+15,15,202,Deepak,Male,Python,Nashik,91,A,96,9876543224.0
+16,16,111,Rohit,Male,Java,Pune,62,C,72,
+18,18,113,Sachin,Male,Java,Mumbai,40,F,55,9876543222.0
+20,20,203,Deepak,Male,Python,Nashik,91,A,96,9876543224.0
+21,21,204,Deepak,Male,Python,Pune,81,B,86,8876543224.0

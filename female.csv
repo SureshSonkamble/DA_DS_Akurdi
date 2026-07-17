@@ -1,0 +1,10 @@
+,Unnamed: 0,StudentID,Name,Gender,Course,City,Marks,Grade,Attendance,Mobile
+1,1,102,Priya,Female,Java,Mumbai,78,B,88,9876543211.0
+3,3,104,Neha,Female,Data Science,Pune,67,C,75,
+5,5,106,Pooja,Female,Python,Mumbai,89,A,91,9876543215.0
+7,7,108,Sneha,Female,Java,Nashik,81,B,85,9876543217.0
+9,9,110,Kavita,Female,Data Science,Mumbai,95,A,98,9876543219.0
+11,11,112,Meena,Female,Python,Nagpur,88,A,90,9876543221.0
+13,13,114,Anjali,Female,Data Science,Pune,76,B,84,9876543223.0
+17,17,112,Meena,Female,Python,Nagpur,88,A,90,9876543221.0
+19,19,114,Anjali,Female,Data Science,Pune,76,B,84,9876543223.0
